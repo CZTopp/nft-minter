@@ -4,6 +4,11 @@ import twitterLogo from "./assets/twitter-logo.svg"
 import { ethers } from "ethers"
 import textNFT from "./utils/TextNFT.json"
 
+/**
+ * @todo add payable to contract to charge to mint
+ * @todo add royalties to contract
+ */
+
 // Constantsx
 const TWITTER_HANDLE = "czshows"
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`

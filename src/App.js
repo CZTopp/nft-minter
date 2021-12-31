@@ -10,7 +10,7 @@ import textNFT from "./utils/TextNFT.json"
  */
 
 // Constantsx
-const TWITTER_HANDLE = "czshows"
+const TWITTER_HANDLE = "myrianproject"
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`
 const CONTRACT_ADDRESS = "0x10fE698317039A4DC902415d44E2De70b2FD5c73"
 
@@ -202,7 +202,7 @@ const App = () => {
             href={TWITTER_LINK}
             target="_blank"
             rel="noreferrer"
-          >{`built on @${TWITTER_HANDLE}`}</a>
+          >{`built by @${TWITTER_HANDLE}`}</a>
         </div>
       </div>
     </div>
